@@ -1,0 +1,3 @@
+Welcome to Plague Age 8. You will be playing a deadly virus and the objective of the game is to invade as many countries as you can. The more countries you invade, the more points you will have. There are 3 levels: Level 1 is based on world geography and is designed as the easiest difficuly. Level 2 is based on math calculations regarding speed, distance, and time. This level is of medium difficulty. Level 3 is the hardest level and is based on cell biology. Your final score is determined by the number of countries you have invaded as well as the population of that country. Countries with a high population will be worth more points. 
+
+You are now on your way to world domination and the wipeout of humankind. Good Luck! 
